@@ -16,7 +16,16 @@
         "forms",
         "customerSelect",
         "Elements",
-        "Textarea1.json"
+        "btnCustomerSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "txtaCustomerSelect.json"
       ]
     }
   ],

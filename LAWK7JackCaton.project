@@ -25,14 +25,6 @@
             "customerSelect",
             "customerSelect.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Form3",
-            "Form3.json"
-          ]
         }
       ],
       "configxml": null,

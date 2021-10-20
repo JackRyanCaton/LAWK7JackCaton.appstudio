@@ -22,4 +22,4 @@ customerSelect.onclick=function(){
 
     } else   // the transit didn't work - bad wifi? server turned off?
         txtaCustomerSelect.value = "Error code: " + req.status
-}
+
